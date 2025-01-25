@@ -33,7 +33,7 @@ In this project, **Phi AI Agent** is used as an Agentic AI system to handle quer
 To run this project, make sure you have the following dependencies installed:
 
 - Python 3.7+
-- [Phi](https://github.com/phi-agent/phi) library
+- [phidata]([https://github.com/phi-agent/phi](https://docs.phidata.com/introduction))
 - `yfinance` library
 - `duckduckgo` library
 - `python-dotenv` for environment variable management
