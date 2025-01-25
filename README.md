@@ -5,7 +5,7 @@ This project provides an interactive financial assistant built using Phi AI, Gro
 
 Agentic AI refers to a class of AI systems designed to autonomously perform tasks, make decisions, and interact with various tools or external environments based on instructions or goals. Unlike traditional AI models that simply process and respond to inputs, Agentic AI systems are equipped with the capability to use external tools, search the web, access databases, and even interact with APIs in real-time. These systems can execute a wide range of actions, including retrieving real-time data, performing calculations, or making recommendations based on specific criteria.
 
-In this project, **Phi AI Agent** is used as an Agentic AI system to handle queries related to financial information. The AI is equipped with tools such as **DuckDuckGo** for web search and **YFinance** for financial data, making it capable of autonomously fetching relevant information and responding to user queries.
+In this project, **Financial AI Agent** is used as an Agentic AI system to handle queries related to financial information. The AI is equipped with tools such as **DuckDuckGo** for web search and **YFinance** for financial data, making it capable of autonomously fetching relevant information and responding to user queries.
 
 ## How It Works
 
