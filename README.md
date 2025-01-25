@@ -1,4 +1,4 @@
-# Financial-Information-Assistant-Using-Agentic-AI
+# Financial-AI-Agent-Using-Phidata
 This project provides an interactive financial assistant built using Phi AI, Groq, YFinance, and DuckDuckGo. The assistant can retrieve real-time stock prices, analyst recommendations, company news, and much more. It uses advanced AI models to provide accurate and concise responses to finance-related queries.
 
 ## What is Agentic AI?
